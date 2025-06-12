@@ -1,0 +1,10 @@
+{
+  "domain": "HouseTech",
+  "name": "Tablet",
+  "version": "1.0.0",
+  "documentation": "https://github.com/tuo_username/tuo_dashboard",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["tuo_username"],
+  "iot_class": "cloud_polling"
+}
