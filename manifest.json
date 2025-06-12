@@ -2,9 +2,9 @@
   "domain": "housetech",
   "name": "Tablet",
   "version": "1.0.0",
-  "documentation": "https://github.com/tuo_username/tuo_dashboard",
+  "documentation": "https://github.com/Andreap1994/HouseTech",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["tuo_username"],
+  "codeowners": ["Andreap1994"],
   "iot_class": "cloud_polling"
 }
