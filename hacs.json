@@ -1,9 +1,0 @@
-{
-  "name": "Hometech",
-  "content_in_root": themes/,
-  "filename": "themes/hometech.yaml",
-  "render_readme": true,
-  "description": "Tema per Home Assistant con versioni ottimizzate per smartphone e tablet",
-  "type": "theme",
-  "domains": ["frontend"]
-}
