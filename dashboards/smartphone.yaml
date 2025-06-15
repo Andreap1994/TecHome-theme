@@ -6,6 +6,7 @@ kiosk_mode:
       hide_header: true
       ignore_disable_km: true
 views:
+  - title: Home
     type: sections
     max_columns: 1
     subview: false
