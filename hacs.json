@@ -1,9 +1,9 @@
 {
-  "name": "HomeTech Theme",
+  "name": "HomeTech Theme & Dashboard",
   "content_in_root": false,
   "filename": "hometech.yaml",
   "render_readme": true,
-  "description": "Tema per Home Assistant con varianti ottimizzate per smartphone e tablet.",
+  "description": "Tema & Dashboard per Home Assistant con varianti ottimizzate per smartphone e tablet.",
   "type": "theme",
   "domains": ["frontend"]
 }
