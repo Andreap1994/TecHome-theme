@@ -9,6 +9,6 @@
   "domains": ["frontend"],
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["Andreap1994"],
-  "iot_class": "cloud_polling"
+  "codeowners": ["Andrea_Palmeri"],
+
 }
