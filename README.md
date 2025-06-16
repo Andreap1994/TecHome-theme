@@ -1,19 +1,34 @@
-# HomeTech Theme
+# 🏠 HomeTech
 
-Un tema moderno e responsive per Home Assistant, ottimizzato per smartphone e tablet.
+Un tema personalizzato e una dashboard YAML ottimizzata per smartphone, tutto in uno.
 
-## Varianti disponibili
+## 🎨 Tema
 
-- **hometech_smartphone**: tema ottimizzato per dispositivi mobili.
-- **hometech_tablet**: tema ottimizzato per tablet o schermi più grandi.
+Percorso: `themes/hometech.yaml`  
+Per attivarlo:
+1. Copia il file in `/config/themes/` (oppure importa da HACS se supportato).
+2. Abilita il tema nelle impostazioni di Home Assistant.
 
-## Installazione con HACS
+## 📱 Dashboard Smartphone
 
-1. Aggiungi questo repository come *Custom Repository* di tipo **Tema** in HACS.
-2. Installa il tema.
-3. Riavvia Home Assistant.
-4. Vai in *Impostazioni > Aspetto* e seleziona una delle due varianti.
+Percorso: `dashboards/smartphone.yaml`  
+Per usarla:
+1. Copia il file in `/config/dashboards/`.
+2. Aggiungi al `configuration.yaml`:
 
-## Licenza
+```yaml
+lovelace:
+  mode: yaml
+  dashboards:
+    smartphone:
+      mode: yaml
+      title: Smartphone
+      icon: mdi:cellphone
+      show_in_sidebar: true
+      filename: dashboards/smartphone.yaml
 
-Distribuito sotto licenza MIT.
+
+
+
+
+
