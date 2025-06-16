@@ -1,0 +1,25 @@
+# 📁 Cache Python
+__pycache__/
+*.pyc
+
+# 🧠 Editor
+.vscode/
+.idea/
+
+# 📦 Backup temporanei / swap files
+*.swp
+*.bak
+*.tmp
+
+# 🪟 File di sistema macOS / Windows
+.DS_Store
+Thumbs.db
+
+# 🧪 Log e file temporanei (evita se usi home-assistant-core)
+*.log
+*.db
+home-assistant_v2.db
+
+# 🔒 File sensibili (NON includerli nel repo!)
+secrets.yaml
+config/
