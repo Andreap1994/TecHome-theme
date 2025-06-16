@@ -26,9 +26,3 @@ lovelace:
       icon: mdi:cellphone
       show_in_sidebar: true
       filename: dashboards/smartphone.yaml
-
-
-
-
-
-
