@@ -1,9 +1,14 @@
 {
   "name": "HomeTech Theme & Dashboard",
+  "documentation": "https://github.com/Andreap1994/hometech",
   "content_in_root": false,
   "filename": "hometech.yaml",
   "render_readme": true,
   "description": "Tema & Dashboard per Home Assistant con varianti ottimizzate per smartphone e tablet.",
   "type": "theme",
-  "domains": ["frontend"]
+  "domains": ["frontend"],
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["Andreap1994"],
+  "iot_class": "cloud_polling"
 }
