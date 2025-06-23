@@ -5,7 +5,7 @@
   "filename": "hometech.yaml",
   "render_readme": true,
   "description": "Tema per Home Assistant.",
-  "type": "theme",
+  "type": "theme", "integration", "lovelace",
   "domains": ["frontend"],
   "requirements": [],
   "dependencies": [],
