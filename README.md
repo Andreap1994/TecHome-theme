@@ -1,4 +1,4 @@
-# 🏠 HomeTech
+# 🏠 TecHome
 
 Un tema personalizzato ottimizzata per smartphone e tablet, tutto in uno.
 
