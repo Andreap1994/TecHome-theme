@@ -1,8 +1,8 @@
 {
-  "name": "HomeTech Theme",
-  "documentation": "https://github.com/Andreap1994/hometech-theme",
+  "name": "TecHome Theme",
+  "documentation": "https://github.com/Andreap1994/TecHome-theme",
   "content_in_root": false,
-  "filename": "hometech.yaml",
+  "filename": "TecHome.yaml",
   "render_readme": true,
   "description": "Tema per Home Assistant.",
   "type": "theme", "integration", "lovelace",
